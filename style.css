@@ -71,6 +71,10 @@ section img{
     
 }
 
+#btn{
+    text-decoration: none;
+    color: inherit;
+}
 button{
     color: white;
     text-transform: uppercase;
